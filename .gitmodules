@@ -4,3 +4,6 @@
 [submodule "releases/stable"]
 	path = releases/stable
 	url = https://github.com/throwawAPI/breath-of-the-wild-obs-browser.git
+[submodule "releases/v0.2"]
+	path = releases/v0.2
+	url = https://github.com/throwawAPI/breath-of-the-wild-obs-browser.git
