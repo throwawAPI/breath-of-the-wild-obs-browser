@@ -2,10 +2,16 @@ body {
   padding-top: 36px;
   padding-right: 61px;
   direction: rtl;
-  /*background: #070707;*/
-  background-position: right top;
-  color: #9FA18B;
 }
+
+body.theme-light {
+  color: #9FA188;
+}
+
+body.theme-dark {
+  color: #070707;
+}
+
 div.hearts {
   padding-top: 0px;
   padding-right: 8px;
@@ -13,28 +19,29 @@ div.hearts {
 }
 
 div.stamina-wheels {
-  padding-top: 4px;
-  padding-right: 6px;
+  padding-top: 3px;
+  padding-right: 5px;
 }
 
 div.spirit-orbs {
-  padding-top: 8px;
+  padding-top: 7px;
   padding-right: 3px;
 }
 
 div.shrines {
+  margin-top: -2px;
   padding-top: 0px;
   padding-right: 1px;
 }
 
 div.korok-seeds {
-  padding-top: 0px;
-  padding-right: 4px;
+  padding-top: 2px;
+  padding-right: 5px;
 }
 
 div.rupees {
-  padding-top: 2px;
-  padding-right: 9px;
+  padding-top: 1px;
+  padding-right: 10px;
 }
 
 span {
@@ -55,7 +62,7 @@ span.rupees-text {
 }
 
 img.heart {
-  padding-top: 6px;
+  padding-top: 5px;
   padding-left: 4px;
 }
 
