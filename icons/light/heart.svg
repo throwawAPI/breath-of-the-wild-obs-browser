@@ -54,7 +54,7 @@
      transform="translate(-351.71357,-15.48567)">
     <path
        id="path626-5"
-       style="display:inline;mix-blend-mode:darken;fill:#070707;fill-opacity:1;stroke:#9fa18b;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;mix-blend-mode:normal;fill:#070707;fill-opacity:1;stroke:#9fa18b;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 353.00195,15.503906 c -1.13574,0.1782 -1.70757,1.690159 -0.93215,2.556714 0.79974,1.137665 1.7147,2.239577 2.81692,3.089771 0.91014,0.08494 1.33447,-0.943233 1.96329,-1.436591 0.65844,-0.78801 1.56909,-1.553369 1.7203,-2.618097 0.0431,-1.15326 -1.40126,-2.115194 -2.35937,-1.316406 -0.39931,0.24924 -0.72531,0.589885 -1.07813,0.896484 -0.60608,-0.509149 -1.25219,-1.312649 -2.13086,-1.171875 z" />
   </g>
   <g
@@ -64,7 +64,7 @@
      style="display:inline"
      transform="translate(-351.71357,-15.48567)">
     <path
-       style="mix-blend-mode:darken;fill:#9fa18b;fill-opacity:1;stroke:#9fa18b;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="mix-blend-mode:normal;fill:#9fa18b;fill-opacity:1;stroke:#9fa18b;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 355.13504,20.680299 c -0.0733,0.02638 -0.75833,-0.64495 -1.52231,-1.491857 -0.76399,-0.846906 -1.38907,-1.767416 -1.38907,-2.045577 0,-0.278161 0.14288,-0.648622 0.3175,-0.823247 0.17463,-0.174625 0.49554,-0.3175 0.71313,-0.3175 0.2176,0 0.72956,0.319932 1.13771,0.710959 0.74208,0.71096 0.74208,0.71096 1.48416,0 0.40815,-0.391027 0.92011,-0.710959 1.13771,-0.710959 0.21759,0 0.5385,0.142875 0.71313,0.3175 0.17462,0.174625 0.3175,0.550074 0.3175,0.834331 0,0.284257 -0.62465,1.183179 -1.38811,1.997604 -0.76346,0.814425 -1.44807,1.502361 -1.52135,1.528746 z"
        id="path626" />
   </g>

@@ -54,7 +54,7 @@
      transform="translate(-352.17,-66.803824)">
     <path
        id="path480-5"
-       style="display:inline;mix-blend-mode:darken;fill:#070707;fill-opacity:1;stroke:#9fa18b;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="display:inline;mix-blend-mode:normal;fill:#070707;fill-opacity:1;stroke:#9fa18b;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 354.60352,66.960938 c -0.75496,0.79263 -1.68404,1.464794 -2.32879,2.334219 -0.1998,1.012923 -0.0283,2.102063 -0.0853,3.144296 -0.0547,0.648356 -0.033,1.369762 0.59763,1.740923 0.74351,0.601728 1.30639,1.484725 2.18167,1.882124 1.05002,0.16778 1.57692,-0.950853 2.30662,-1.497204 0.52123,-0.475061 1.19676,-0.978338 1.00002,-1.782483 -0.0528,-1.152051 0.10544,-2.347423 -0.0788,-3.472501 -0.59742,-0.846974 -1.50586,-1.478261 -2.22282,-2.241989 -0.34851,-0.340769 -0.9607,-0.324981 -1.37027,-0.107385 z" />
   </g>
   <g
@@ -65,7 +65,7 @@
      transform="translate(-352.17,-66.803824)">
     <path
        id="path480"
-       style="mix-blend-mode:darken;fill:#9fa18b;fill-opacity:1;stroke:#9fa18b;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="mix-blend-mode:normal;fill:#9fa18b;fill-opacity:1;stroke:#9fa18b;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 355.23241,75.534125 h -0.26458 l -1.12448,-1.07537 -1.12448,-1.07538 v -1.94458 -1.94459 l 1.12448,-1.07538 1.12448,-1.07537 h 0.26458 0.26458 l 1.12448,1.07537 1.12448,1.07538 v 1.94459 1.94458 l -1.12448,1.07538 -1.12448,1.07537 z m -0.0424,-1.05997 0.2222,0.007 0.76999,-0.72674 0.76999,-0.72675 v -1.58922 -1.58921 l -0.76999,-0.72675 -0.76999,-0.72675 h -0.17982 -0.17981 l -0.76999,0.72674 -0.76999,0.72675 v 1.56631 1.56631 l 0.72761,0.7423 0.7276,0.74231 0.2222,0.007 z m -0.004,-1.05099 h -0.26889 l -0.43788,-0.48385 -0.43788,-0.48386 v -1.06263 -1.06264 l 0.48385,-0.43789 0.48386,-0.43788 h 0.26888 0.26889 l 0.43788,0.48386 0.43789,0.48385 v 1.06264 1.06264 l -0.48386,0.43788 -0.48385,0.43788 z" />
   </g>
 </svg>
