@@ -17,7 +17,7 @@ This source uses HTML parameters directly from the URL. These include:
 ?rupees=[integer]     (default: 0)
 ```
 
-These parameters can be chained in any order. Updating them will cause the OBS Browser Source to update immediently after the field looses focus. While this is the most direct way to calculate these, it does tend to produce extremely long URLs, so... ¯\_(ツ)_/¯
+These parameters can be chained in any order. Updating them will cause the OBS Browser Source to update immediently after the field looses focus. While this is the most direct way to calculate these, it does tend to produce extremely long URLs, so... ¯\\\_(ツ)_/¯
 
 # Installation
 No installation needed! Just set an OBS Browser Source to [the current stable build, hosted on github](https://throwawapi.github.io/breath-of-the-wild-obs-browser/releases/stable/) (`https://throwawapi.github.io/breath-of-the-wild-obs-browser/releases/stable/`). See the [Usage](#usage) section below for details. Versions are released periodically here as features are added. `/releases/stable/` should always be a live link to the latest version, with no intent to change the underlying API. If this changes, I will note it here. If you are interested in an older release, check the [releases page](https://github.com/throwawAPI/breath-of-the-wild-obs-browser/releases) and follow the link.
